@@ -10,12 +10,20 @@
 ![图片](https://user-images.githubusercontent.com/102449999/177478321-fd814d40-1ea9-476b-9f46-afa64e2ea516.png)
 
 
-### 2.
+### 2.端口扫描
+![图片](https://user-images.githubusercontent.com/102449999/177711621-8aae021e-e3d6-40d2-898e-62853f849993.png)
 
-### 3.
 
-### 4.
+### 3.操作系统判断
 
-### 5.
 
-### 6.
+### 4.查询CDN
+![图片](https://user-images.githubusercontent.com/102449999/177712779-83fd6b01-f765-4c1b-978d-7c7ee2ddccb6.png)
+
+
+
+### 5.域名反查IP
+![图片](https://user-images.githubusercontent.com/102449999/177712974-c077812c-4130-4e0c-be44-57dfee3605b6.png)
+
+
+### 6.whois查询
