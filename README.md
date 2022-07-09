@@ -1,9 +1,8 @@
 # Simple_NetworkScanner
-使用Python语言开发；实现主机、端口、操作系统判断；以及CDN查询、whois查询、域名反查IP等功能。
+# 使用Python语言开发；实现主机、端口、操作系统判断；以及子域名查询、CDN查询、whois查询、域名反查IP等功能
 
 ## 准备工作
-### Python库
-- nmap、certifi、charset-normalizer、kamene、scapy、whois、wheel
+### 详见requiroment.txt
 
 ## 项目功能
 ### 1.主机扫描
@@ -27,3 +26,7 @@
 
 
 ### 6.whois查询
+
+### 7.子域名查询
+![图片](https://user-images.githubusercontent.com/102449999/178092937-c5374ec7-ec11-4ae2-885c-39951fd6845d.png)
+
