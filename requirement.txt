@@ -1,1 +1,16 @@
-
+#------------------------------------------------------
+#下载nmap和npcap
+#------------------------------------------------------
+#所需要引入的python包
+import nmap
+import sys
+from optparse import OptionParser
+from scapy.all import *
+import time
+import os
+import threading
+import socket
+from datetime import datetime
+from multiprocessing.dummy import Pool as ThreadPool
+from whois import *
+import requests
