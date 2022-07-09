@@ -1,4 +1,7 @@
 # Simple_NetworkScanner
+## 说明
+- 将 dic.txt字典文件和 Simple-NetworkScanning.py 置于同一目录下。
+## 功能
 - 使用Python语言开发；实现主机、端口、操作系统判断；以及子域名查询、CDN查询、whois查询、域名反查IP等功能
 
 ## 准备工作
