@@ -6,7 +6,8 @@
 
 ## 项目功能
 ### 1.主机扫描
-![图片](https://user-images.githubusercontent.com/102449999/177478321-fd814d40-1ea9-476b-9f46-afa64e2ea516.png)
+![图片](https://user-images.githubusercontent.com/102449999/178092996-d12d9739-48d5-4d7e-acad-c9a65606b671.png)
+
 
 
 ### 2.端口扫描
