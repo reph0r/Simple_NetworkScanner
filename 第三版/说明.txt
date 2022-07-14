@@ -1,1 +1,2 @@
 
+下载 comprehensiveScannerV1.0.zip ，导入pycharm 或者 直接在python中运行！
